@@ -13,4 +13,4 @@ Kruskal Subroutine Parameters
 6- Increment value y
 7- Initial offset x
 
-اینجا
+
